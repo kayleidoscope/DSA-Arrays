@@ -12,3 +12,11 @@ function urlify(string) {
 
 console.log(urlify("tauhida parveen"))
 console.log(urlify("www.thinkful.com /tauh ida parv een"))
+
+/*
+
+Time-complexity: O(n). It could be optimized to O(1) with the .replaceAll()
+method and a global parameter, but that didn't seem like the point of this
+exercise.
+
+*/
