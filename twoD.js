@@ -46,3 +46,10 @@ console.log(
         ]
     )
 )
+
+/*
+
+This solution is O(n^5). There has got to be a better optimization because that
+seems unsustainable.
+
+*/
